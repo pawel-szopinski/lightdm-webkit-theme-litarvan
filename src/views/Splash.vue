@@ -59,7 +59,7 @@
     }
 
     #trigger {
-        font-family: 'Lato', 'Noto Sans', serif;
+        font-family: 'SF Pro Text', 'Noto Sans', serif;
         font-weight: 300;
         font-size: 32px;
         cursor: default;

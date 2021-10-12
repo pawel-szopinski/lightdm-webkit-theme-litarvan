@@ -50,7 +50,7 @@
     @import "../theme";
 
     #blur-view {
-        font-family: 'Lato', 'Noto Sans', sans-serif;
+        font-family: 'SF Pro Text', 'Noto Sans', sans-serif;
         font-weight: 300;
 
         color: $outer-foreground;

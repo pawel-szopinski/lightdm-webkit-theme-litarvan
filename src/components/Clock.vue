@@ -71,7 +71,7 @@
     .clock {
         font-size: 164px;
         font-weight: 300;
-        font-family: 'Lato', 'Noto Sans', sans-serif;
+        font-family: 'SF Pro Text', 'Noto Sans', sans-serif;
         line-height: 1.1;
 
         text-align: center;

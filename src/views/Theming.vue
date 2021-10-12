@@ -158,7 +158,7 @@
         color: $outer-foreground;
         text-align: left;
 
-        font-family: 'Lato', 'Noto Sans', sans-serif;
+        font-family: 'SF Pro Text', 'Noto Sans', sans-serif;
 
         padding: 35px;
         box-sizing: border-box;
@@ -253,7 +253,7 @@
             margin-left: 8px;
 
             font-size: 18px;
-            font-family: 'Lato', 'Noto Sans', sans-serif;
+            font-family: 'SF Pro Text', 'Noto Sans', sans-serif;
         }
     }
 

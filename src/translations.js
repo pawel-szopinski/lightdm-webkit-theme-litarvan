@@ -1,6 +1,7 @@
 const translations = {
     // English
     'en': {
+        disableItalic: true,
         trigger: 'Press Space or Enter to login',
         password: 'Password...',
 

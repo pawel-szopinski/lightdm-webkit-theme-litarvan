@@ -90,7 +90,7 @@
 
 <style lang="scss" scoped>
     .item {
-        font-family: 'Lato', 'Noto Sans', sans-serif;
+        font-family: 'SF Pro Text', 'Noto Sans', sans-serif;
 
         border-radius: 5px;
         transition: background-color 125ms ease-in-out;

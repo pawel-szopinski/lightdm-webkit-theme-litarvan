@@ -70,7 +70,7 @@
     }
 
     #power-text {
-        font-family: 'Lato', 'Noto Sans', serif;
+        font-family: 'SF Pro Text', 'Noto Sans', serif;
         font-weight: normal;
         color: $outer-foreground;
         font-size: 58px;
